@@ -1,5 +1,9 @@
 public class Main {
-
+    /**
+     * Calls recursive fibbonaci method inside Fibbonaci class.
+     * @param args The command line arguments.
+     * @return void This method returns nothing.
+     */
         public static void main(String[] args) {
             int n = 10;
             //call fibbonaciRecursive method from Fibbonaci class
